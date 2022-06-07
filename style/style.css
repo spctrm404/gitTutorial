@@ -5,11 +5,12 @@
 }
 
 :root {
-  background-color: black;
+  background-color: darkslateblue;
   color: white;
 }
 
 .container {
-  margin-inline: auto;
   max-width: 400px;
+  margin-inline: auto;
+  font-size: 3rem;
 }
