@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  margin-inline: auto;
+  max-width: 400px;
+}
